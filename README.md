@@ -15,9 +15,6 @@ A visual, drag-and-drop workflow builder for creating automated trading bots —
 
 
 
-
-
-
 📌 Overview
 
 This project is a complete no-code execution platform for trading bots, inspired by tools like N8N, but crafted specifically for algorithmic trading.
